@@ -89,6 +89,7 @@
               <threadCounts>true</threadCounts>
             </value>
           </objProp>
+          <stringProp name="TestPlan.comments">With 0.1 CPUs</stringProp>
           <stringProp name="filename">/home/dn40/composetest/GraphScenario2</stringProp>
         </ResultCollector>
         <hashTree/>
@@ -122,6 +123,7 @@
               <threadCounts>true</threadCounts>
             </value>
           </objProp>
+          <stringProp name="TestPlan.comments">With 0.1 CPUs</stringProp>
           <stringProp name="filename">/home/dn40/composetest/ReportScenario2</stringProp>
         </ResultCollector>
         <hashTree/>
@@ -196,7 +198,7 @@
             </value>
           </objProp>
           <stringProp name="filename">/home/dn40/composetest/GraphScenario1</stringProp>
-          <boolProp name="ResultCollector.success_only_logging">true</boolProp>
+          <stringProp name="TestPlan.comments">With 0.1 CPUs</stringProp>
         </ResultCollector>
         <hashTree/>
         <ResultCollector guiclass="StatVisualizer" testclass="ResultCollector" testname="Aggregate Report" enabled="true">
@@ -230,6 +232,7 @@
             </value>
           </objProp>
           <stringProp name="filename">/home/dn40/composetest/ReportScenario1</stringProp>
+          <stringProp name="TestPlan.comments">With 0.1 CPUs</stringProp>
         </ResultCollector>
         <hashTree/>
       </hashTree>
