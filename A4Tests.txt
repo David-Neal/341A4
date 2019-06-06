@@ -1,0 +1,13 @@
+For 0.1 CPUs with no Timer Delay: (Benchmark)
+For 0.1 CPUs with 300ms Delays:
+For 0.1 CPUs with 200ms Delays:
+For 0.1 CPUs with 100ms Delays:
+For 0.5 CPUs with no Timer Delay: (Benchmark)
+For 0.5 CPUs with 300ms Delays:
+For 0.5 CPUs with 200ms Delays:
+For 0.5 CPUs with 100ms Delays:
+For 1 CPU with no Timer Delay: (Benchmark)
+For 1 CPU with 300ms Delays:
+For 1 CPU with 200ms Delays:
+For 1 CPU with 100ms Delays:
+
