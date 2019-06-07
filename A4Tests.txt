@@ -11,5 +11,7 @@ For 1 CPU with 300ms Delays:
 For 1 CPU with 200ms Delays:
 For 1 CPU with 100ms Delays:
 
+Testing of bad input, and marginal input using strings and hex numbers
+
 Further tests could be done involving memory allocated. 128MB seems like it could be in excess of need, a more compact quantity
 could likely  be found.
